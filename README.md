@@ -4,7 +4,7 @@ Hi there! I'm a software engineering student and a music producer. On my profile
 
 ## Projects
 
--   **Sad Machine:** This is a project that I'm currently working on. It's a discord bot with many features such as moderation, music, and other fun stuff. So you don't have to keep 20 different bots in your server.
+-   **Sad Machine:** This is a project that I'm currently working on. It's a discord bot with many features such as moderation, music, and other fun stuff, so you don't have to keep 20 different bots in your server.
 
 ## Skills
 
