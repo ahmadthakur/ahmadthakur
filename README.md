@@ -8,10 +8,10 @@ Hi there! I'm a software engineering student and a music producer. On my profile
 
 ## Skills
 
--   Proficient in languages such as JavaScript and Dart
--   Experience with frameworks such as React and Flutter
+-   I know some JavaScript
+-   Started learning Flutter
 -   Proficient in version control using Git
--   Music production skills using software such as Ableton Live and FL Studio
+-   Music production skills using FL Studio
 
 ## Contact
 
