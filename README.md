@@ -10,11 +10,10 @@ Hi there! I'm a software engineering student and a music producer. On my profile
 
 -   I know some JavaScript
 -   Started learning Flutter
--   Proficient in version control using Git
 -   Music production skills using FL Studio
 
 ## Contact
 
-If you have any questions or want to collaborate on a project, feel free to send me a message on GitHub or email me at [ahmad.thakur@outlook.com]. I'm always open to meeting new people and working on exciting projects!
+If you have any questions or want to collaborate on a project, feel free to send me a message on GitHub or email me at ahmad.thakur@outlook.com. I'm always open to meeting new people and working on exciting projects!
 
 Thanks for stopping by! :smile:
