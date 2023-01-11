@@ -6,7 +6,7 @@ Hi there! I'm a software engineering student and an indie full-stack developer a
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -21,7 +21,7 @@ Hi there! I'm a software engineering student and an indie full-stack developer a
 
 #
 
-### 📊 Stats
+### Stats
 
 ![Sushipie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushipie&show_icons=true&theme=tokyonight)
 
@@ -29,7 +29,7 @@ Hi there! I'm a software engineering student and an indie full-stack developer a
 
 #
 
-## Contact
+### Contact
 
 If you have any questions or want to collaborate on a project, feel free to send me a message on GitHub or email me at ahmad.thakur@outlook.com. I'm always open to meeting new people and working on exciting projects!
 
