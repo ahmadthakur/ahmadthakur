@@ -19,13 +19,15 @@ Hi there! I'm a software engineering student and an indie full-stack developer a
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
 ### 📊 Stats
 
 ![Sushipie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushipie&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sushipie&theme=gruvbox&border_radius=4.5) -->
 
----
+#
 
 ## Contact
 
