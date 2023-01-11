@@ -1,16 +1,29 @@
-# Welcome to my GitHub profile! :octocat:
+# :octocat: Ahmad Thakur 
 
-Hi there! I'm a software engineering student and a music producer. On my profile, you'll find a variety of projects that I'm working on or have worked on in the past.
+**`Digital Craftsman (Developer/Creator)`**
 
-## Projects
+Hi there! I'm a software engineering student and an indie full-stack developer and content creator. On my profile, you'll find a variety of projects that I'm working on or have worked on in the past. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
--   **Sad Machine:** This is a project that I'm currently working on. It's a discord bot with many features such as moderation, music, and other fun stuff, so you don't have to keep 20 different bots in your server.
+---
 
-## Skills
+### Languages and Tools:
 
--   I know some JavaScript
--   Started learning Flutter
--   Music production skills using FL Studio
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+### 📊 Stats
+
+![Sushipie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushipie&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sushipie&theme=gruvbox&border_radius=4.5) -->
 
 ## Contact
 
