@@ -23,7 +23,7 @@ Hi there! I'm a software engineering student and an indie full-stack developer a
 
 ### Stats
 
-![Sushipie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushipie&show_icons=true&theme=tokyonight)
+![Sushipie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadthakur&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sushipie&theme=gruvbox&border_radius=4.5) -->
 
