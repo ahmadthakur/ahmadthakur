@@ -1,4 +1,4 @@
-# :octocat: Ahmad Thakur 
+<img src="https://cdn3.emoji.gg/emojis/3430-gigachad.png"> # Ahmad Thakur 
 
 **`Digital Craftsman (Developer/Creator)`**
 
