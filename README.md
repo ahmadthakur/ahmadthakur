@@ -1,4 +1,5 @@
-<img src="https://cdn3.emoji.gg/emojis/3430-gigachad.png"> # Ahmad Thakur 
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/3430-gigachad.png"> 
+# Ahmad Thakur 
 
 **`Digital Craftsman (Developer/Creator)`**
 
