@@ -1,10 +1,10 @@
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/3430-gigachad.png"> 
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/1942-okay-anime-girl.png"> 
 
 # Ahmad Thakur 
 
 **`Digital Craftsman (Developer/Creator)`**
 
-Hi there! I'm a software engineering student and an indie full-stack developer and content creator. On my profile, you'll find a variety of projects that I'm working on or have worked on in the past. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Hi, I'm Ahmad, a Software Engineering student and developer. Check out my profile for a glimpse of various coding projects that I'm working on.
 
 ---
 
